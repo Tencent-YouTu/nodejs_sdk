@@ -5,7 +5,7 @@ nodejs sdk for [腾讯优图开放平台](http://open.youtu.qq.com/)
 ## 安装
 
 ```sh
-git clone https://github.com/TencentYouTu/nodejs_sdk.git
+git clone https://github.com/Tencent-YouTu/nodejs_sdk.git
 ```
 
 ## 名词
