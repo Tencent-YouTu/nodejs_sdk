@@ -1,6 +1,6 @@
 # tencentyun-youtu-nodejs-sdk
 
-nodejs sdk for [腾讯优图开放平台](http://open.youtu.qq.com/)
+nodejs sdk for [腾讯优图开放平台](https://open.youtu.qq.com/)
 
 ## 安装
 
@@ -13,7 +13,7 @@ git clone https://github.com/Tencent-YouTu/nodejs_sdk.git
 - `AppId` 平台添加应用后分配的AppId
 - `SecretId` 平台添加应用后分配的SecretId
 - `SecretKey` 平台添加应用后分配的SecretKey
-- `签名` 接口鉴权凭证，由`AppId`、`SecretId`、`SecretKey`等生成，详见<http://open.youtu.qq.com/#/develop/tool-authentication>
+- `签名` 接口鉴权凭证，由`AppId`、`SecretId`、`SecretKey`等生成，详见<https://open.youtu.qq.com/#/develop/tool-authentication/auth>
 
 ## API
 
